@@ -1,2 +1,6 @@
 New change
+<<<<<<< HEAD
 abcd
+=======
+hello all
+>>>>>>> 3a260c0b12521441b0c1276932d3e4386f04f8b3
